@@ -8,15 +8,12 @@
 
 - 💬 Ask me about **Data**
 
-- 📫 How to reach me **obhut0004@gmail.com**
+- 📫 How to reach me **jackbaradcr7@gmail.com**
 
-- ⚡ Fun fact **Did you know that pandas, one of the most popular Python libraries, is named after "Panel Data"? 🐼😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/om-bhut-521821251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/om-bhut-521821251/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ombhut44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ombhut44" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/om_44/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/om_44/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/om-bhut-521821251/](https://www.linkedin.com/in/harsh-barad-b47b24250/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/om-bhut-521821251/" height="30" width="40" /></a>
 </p>
 
 ### 🚀 Technologies & Tools I Use
@@ -55,12 +52,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ombhut44" alt="ombhut44" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ombhut44&show_icons=true&locale=en&layout=compact" alt="ombhut44" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ombhut44&show_icons=true&locale=en" alt="ombhut44" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ombhut44&" alt="ombhut44" /></p>
